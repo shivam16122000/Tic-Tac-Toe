@@ -6,6 +6,6 @@
 
 body {
   margin-left: 200px;
-  height: 100vh;
-  background: linear-gradient(to bottom right, blue, green, grey, red);
+
+  background: linear-gradient(to right, blue, green, grey, red);
 }
