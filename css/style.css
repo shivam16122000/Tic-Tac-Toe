@@ -1,0 +1,10 @@
+.squares {
+  display: grid;
+  grid-template-columns: repeat(3, 170px);
+  grid-template-rows: repeat(3, 170px);
+}
+
+body {
+  margin-left: 600px;
+  background: linear-gradient(to bottom right, blue, green, grey, red);
+}
