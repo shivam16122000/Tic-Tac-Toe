@@ -1,10 +1,11 @@
 .squares {
   display: grid;
-  grid-template-columns: repeat(3, 170px);
-  grid-template-rows: repeat(3, 170px);
+  grid-template-columns: repeat(3, 120px);
+  grid-template-rows: repeat(3, 120px);
 }
 
 body {
-  margin-left: 600px;
+  margin-left: 200px;
+  height: 100vh;
   background: linear-gradient(to bottom right, blue, green, grey, red);
 }
